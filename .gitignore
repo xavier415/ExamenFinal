@@ -1,0 +1,7 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.log
